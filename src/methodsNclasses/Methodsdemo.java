@@ -32,13 +32,13 @@ public class Methodsdemo
 	    {
 	    	 result=(salary*35)/100;
 	    	 netsalary=result+salary;
-	    	 System.out.println(""+netsalary);
+	    	 System.out.println("The netsalary is : "+netsalary);
 	    }
 	    else
 	    {
 	    	result=(salary*15)/100;
 	    	netsalary=result+salary;
-	    	System.out.println(""+netsalary);
+	    	System.out.println("The netsalary is : "+netsalary);
 	
 	    }
 	}
