@@ -6,7 +6,6 @@ public class MethodOverloading1Main {
 		
 		MethodOverloading1 obj=new MethodOverloading1();
 
-		
 		obj.input();
 
 	
